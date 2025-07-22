@@ -188,6 +188,7 @@ This project is **open source** and free to use.
 ## 🧠 Author
 
 M.Vedik Reddy
+
 Final Year B.Tech — Department of CSE
 
 
