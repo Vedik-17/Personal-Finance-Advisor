@@ -185,7 +185,8 @@ Feel free to fork this repo and submit pull requests!
 This project is **open source** and free to use.
 
 ---
-🧠 Author
+## 🧠 Author
+
 M.Vedik Reddy
 Final Year B.Tech — Department of CSE
 
